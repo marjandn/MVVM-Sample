@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MVVMSample</string>
+
+    <string name="server_error">we have server error please try again</string>
+    <string name="login_failed">your email or password has incorrect</string>
+    <string name="email_error">your email is incorrect</string>
+    <string name="pass_error">your password should bigger than 4 words</string>
+
+    <string name="register_failed">your register was failed please try again</string>
+    <string name="confirm_error">your password has incorrect confirm</string>
+    <string name="duplicate_error">you had register before</string>
+</resources>
